@@ -4,7 +4,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kareemwezza)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MohammedElzanaty)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/kareemfouad27)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mohammedelzanaty)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=kareemwezza)
 
 <!--
