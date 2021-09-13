@@ -1,6 +1,12 @@
 ### Hi there 👋
 #### I'm Kareem Fouad working as front-end web developer. Coding is one of my lovely passions and I always do my best to develop my coding skills.
 
+``` JS
+const Profile: Developer = {
+  name: 'Kareem Fouad'
+}
+```
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemwezza/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kareemwezza)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/Kareemfouad)
