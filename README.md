@@ -14,7 +14,8 @@ const Profile: Developer = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kareemwezza)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/Kareemfouad)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=kareemwezza)
-[![Profile Views]](https://img.shields.io/badge/People%20Per%20Hour-Hire%20Me-orange?style=for-the-badge&logo=appveyor)
+<br/>
+[![Profile Views](https://img.shields.io/badge/People%20Per%20Hour-Hire%20Me-orange?style=for-the-badge&logo=appveyor)](https://pph.me/kfouad27)
 
 
 <!--
