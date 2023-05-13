@@ -3,10 +3,10 @@
 ``` JS
 const Profile: Developer = {
   name: 'Kareem Fouad',
-  age: 22,
-  bio: 'React Front End Web Developer, Egyptian Medical student.',
+  age: 23,
+  bio: 'Full Stack End Web Developer.',
   email: 'kareemfouad27@gmail.com',
-  skills: [HTML5, CSS3, javaScript, ES6, OOP, React, Redux, NodeJs, expressJS, mongoDB, WordPress],
+  skills: [HTML5, CSS3, javaScript, ES6, OOP, Angular, React, Redux, NodeJs, expressJS, mongoDB, WordPress],
 }
 ```
 
