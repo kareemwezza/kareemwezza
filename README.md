@@ -4,7 +4,7 @@
 const Profile: Developer = {
   name: 'Kareem Fouad',
   age: 23,
-  bio: 'Full Stack End Web Developer.',
+  bio: 'Full Stack Web Developer.',
   email: 'kareemfouad27@gmail.com',
   skills: [HTML5, CSS3, javaScript, ES6, OOP, Angular, React, Redux, NodeJs, expressJS, mongoDB, WordPress],
 }
